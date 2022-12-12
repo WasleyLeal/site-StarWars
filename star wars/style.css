@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logoheader{
+    position: relative;
+    width: 98vw;
+    height: 90vh;
+   /* border: solid red; */
+}
+
+.logoheader2{
+    position: relative;
+    left: 19vw;
+    bottom: 37vh;
+    width: 25vw;
+    display: inline-block;
+   /* border: solid red;  */
+    
+    
+}
+
+.logoheader3{
+    position: relative;
+    left: 63vw;
+    bottom: 52vh;
+    width: 32vw;
+    display: inline-block;
+   /* border: solid red;  */ /*imagem WAR */
+    
+}
+
+
+.logoheader4{
+    position: relative;
+    bottom: 15vw;
+    width: 44vw;
+   /* border: solid red; */ 
+
+}
+
+.logoheader5{
+    position: relative;
+    bottom: 220vh;
+    left: 80vw;
+   /* border: solid red; /* /*imagem CRIE SUA LEGIÃO */
+}
+
+.logoheader6{
+    position: relative;
+    width: 60vw;
+    bottom: 145vw;
+    left: 15vw;
+}
+
+.logoheader7{
+    position: relative;
+    bottom: 335vh;
+    left: 18vw;
+    width: 18vw;
+  /*  border: solid yellow; */ 
+}
+
+.sobreojogo{
+    position: relative;
+    left: 40vw;
+    bottom: 170vw;
+    width: 55vw;
+
+}
+
+#linha-horizontal{
+    position: relative;
+    width: 79vw;
+    border: 1px solid;
+    left: 17vw;
+    bottom: 165vw;
+}
+
+.lord{
+    position: relative;
+    width: 47vw;
+    bottom: 159vw;
+    left: 12vw;
+   /* border: solid red; */   /* imagem lorde sift */
+}
+
+.rey{
+    position: relative;
+    left: 69vw;
+    bottom:205vw;
+    width: 25vw;
+}
+
+.Estrutura{
+    position: relative;
+    display: inline-flex;
+    font-family: Open sans-serif; 
+    font-size: 45px;   
+    bottom: 250vw;
+    left: 43vw;
+    text-align: right;
+    /* border: solid red; */   /* texto estrutura do jogo */
+}
+
+.menuSelecao{
+    position: relative;
+    font-family:Open sans-serif;
+    font-size: 25px;
+    bottom: 248vw;
+    text-align: right;
+    right: 28vw;     /* texto JORNADA A FLIPERAMA */    
+
+}
+
+.atributos{
+    position: relative;
+    display: inline-flex;
+    bottom: 244vw;
+    width: 10vh;
+    height: 255vh;
+    
+    
+}
+
